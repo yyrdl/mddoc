@@ -1,6 +1,6 @@
 {
-    "name": "doc_editor",
-    "version": "1.0.0",
+    "name": "mddoc",
+    "version": "0.0.1",
     "description": "",
     "main": "editor.js",
     "author": "yyrdl",
