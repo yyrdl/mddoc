@@ -1,0 +1,13 @@
+{
+    "name": "doc_editor",
+    "version": "1.0.0",
+    "description": "",
+    "main": "editor.js",
+    "author": "yyrdl",
+    "license": "ISC",
+    "dependencies": {
+       "markdown-it":"8.4.0",
+       "highlight.js":"9.12.0",
+       "optimist":"0.6.1"
+    }
+  }

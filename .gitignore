@@ -1,0 +1,11 @@
+ #vscode
+.vscode
+
+#npm dependency
+node_modules
+
+# build 
+build
+
+#npm log
+npm-debug.log
